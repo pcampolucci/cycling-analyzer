@@ -1,0 +1,5 @@
+fitdecode~=0.10.0
+pandas~=1.5.3
+sphinx~=4.2.0
+matplotlib~=3.1.2
+numpy~=1.24.2
